@@ -1,12 +1,12 @@
 Dados do aluno
 
--Primeiro Nome:
--Profissão:
--Cidade:
--O que faz nas horas vaga:
--Feedback sobre o curso Qualidade de Software:
--Feedback sobre a plataforma de estudo da EBAC:
+-Primeiro Nome: Camila
+-Profissão: Analista de Teste e Qualidade de Software
+-Cidade: Camboriu/SC
+-O que faz nas horas vaga: leio, passeio com minha cachorra, vou à praia
+-Feedback sobre o curso Qualidade de Software: alguns conteúdos são bem rasos e é preciso buscar na internet material complementar. 
+O curso é bom para ter uma base de conhecimento inicial, mas para quem já tem um pouco de conhecimento a sensação é de que falta algo nas aulas.
+-Feedback sobre a plataforma de estudo da EBAC: A plataforma é muito simples de mexer, é possível visualizar os módulos e aulas já feitas, o que está em andamento.
+
 
 Obrigado!!!
-
-
